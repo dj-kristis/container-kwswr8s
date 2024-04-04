@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "dj-kristis",
+  "repo": "container-kwswr8s",
+  "name": "dj-kristis",
+  "email": "kristijonaskaracionka11@gmail.com",
+}
